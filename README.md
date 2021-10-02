@@ -9,6 +9,7 @@
 Deployed at: _https://ipl-1st-innings-score-predicto.herokuapp.com/_
 #### Credits : Anuj Vyas
 • A glimpse of the web app:
+
  ![First Innings Score Predictor - Google Chrome 2021-10-02 13-53-59 (2)](https://user-images.githubusercontent.com/59694546/135709883-dd5a799a-0591-4bb7-80ef-cf22b1d643aa.gif)
 
 • Please do ⭐ the repository, if it helped you in anyway.
