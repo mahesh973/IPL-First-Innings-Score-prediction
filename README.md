@@ -7,7 +7,7 @@
 
 • If you want to view the deployed model, click on the following link:<br />
 Deployed at: _https://ipl-1st-innings-score-predicto.herokuapp.com/_
-### Credits : Anuj Vyas
+#### Credits : Anuj Vyas
 • A glimpse of the web app:
 
  ![GIF](readme_resources/ipl-first-innings-score-web-app.gif)
